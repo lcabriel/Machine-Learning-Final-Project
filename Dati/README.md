@@ -21,19 +21,25 @@ PTS_home: Numero dei punti segnati dal team in casa
 FG_PCT_home: Field Goal Percentage del team in casa 
 
 ####################
+
 Field goal percentage is used to measure how well a player or team shoots the ball during a game. To calculate field goal percentage, divide the number of made shots by the total number of shot attempts
+
 ####################
 
 FT_PCT_home: Free Throw Percentage del team in casa
 
 ####################
+
 Calculating your Free Throw Percentage is pretty straight forward. You simply take the number of free throws made and divide it by the total number of attempts.
+
 ####################
 
 FG3_PCT_home: Three Point Percentage del team in casa
 
 ####################
+
 You simply take the number of 3 Pointers made and divide it by the total number of attempts. 
+
 ####################
 
 
