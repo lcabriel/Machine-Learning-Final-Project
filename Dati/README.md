@@ -68,3 +68,61 @@ HOME_TEAM_WINS: se il team in casa vince il parametro è 1 mentre se perde è 0
 #games_details.csv
 
 #LEGENDA
+
+
+GAME_ID: VEDI SOPRA
+
+TEAM_ID: VEDI SOPRA
+
+TEAM_ABBREVIATION: Abbreviazione del nome del team
+
+TEAM_CITY: Città dove la partita è stata giocata
+
+PLAYER_ID: codice identificativo del giocatore
+
+PLAYER_NAME: nome del giocatore
+
+NICKNAME: nickname del giocatore 
+
+START_POSITION: Posizione di partenza. Se non c'è nulla vuol dire che era in panchina
+
+COMMENT: eventuali commenti
+
+MIN: minuti giocati
+
+FGM: field goal svolti
+
+FGA: field goal tentati
+
+FG_PCT: percentuale field goal
+
+FG3M: tiri da tre punti svolti
+
+FG3A: tiri da tre punti tentati
+
+FG3_PCT: percentuali tiri da tre punti
+
+FTM: free throw svolti
+
+FTA: free throw tentati
+
+FT_PCT: percentuale free throw
+
+OREB: rimesse offensive
+
+DREB: rimesse difensive
+
+AST: assist
+
+STL: steal
+
+BLK: blocked shot
+
+TO: turnover
+
+PF: personal foul
+
+PTS: punti segnati dal giocatore
+
+PLUS_MINUS: Plus-Minus
+
