@@ -64,6 +64,7 @@ REB_away: rimesse del team ospite
 HOME_TEAM_WINS: se il team in casa vince il parametro è 1 mentre se perde è 0
 
 
+################################################################################################################################
 
 #games_details.csv
 
