@@ -127,3 +127,83 @@ PTS: punti segnati dal giocatore
 
 PLUS_MINUS: Plus-Minus
 
+
+######################################################
+
+#players.csv
+
+#LEGENDA
+
+PLAYER_NAME: VEDI SOPRA
+
+TEAM_ID: VEDI SOPRA
+
+PLAYER_ID: VEDI SOPRA 
+
+SEASON: VEDI SOPRA
+
+
+######################################################
+
+#ranking.csv
+
+#LEGENDA
+
+TEAM_ID: VEDI SOPRA
+
+LEAGUE_ID: essendoci solo dati NBA qui è sempre 00
+
+SEASON_ID: codice identificativo della stagione
+
+STANDINGDATE: Data di riferimento dei successivi dati
+
+CONFERENCE: Quale delle due conference dell'NBA la squadra rientrava
+
+G: Numero di partite giocate nella stagione
+
+W: Numero di partite vinte nella stagione
+
+L: Numero di partite perse nella stagione
+
+W_PCT: Percentuale di partite vinte
+
+HOME_RECORD: (NON SONO SICURO) Miglior punteggio in casa
+
+ROAD_RECORD: (NON SONO SICURO Miglior punteggio fuori casa
+
+RETURNTOPLAY: Non lo so (sono quasi tutti nulli)
+
+
+#################################################################
+
+#teams.csv
+
+#LEGENDA
+
+LEAGUE_ID: VEDI SOPRA
+
+TEAM_ID: VEDI SOPRA
+
+MIN_YEAR: Anno d'ingresso nella NBA la prima volta
+
+MAX_YEAR: Ultimo anno nella NBA (TUTTI 2019)
+
+ABBREVIATION: VEDI TEAM_ABBREVIATION
+
+NICKNAME: VEDI SOPRA
+
+FOUNDED_YEAR: Anno di fondazione ma coincidono con MIN_YEAR
+
+CITY: Città sede del team
+
+ARENA: Stadio casa del team
+
+ARENACAPACITY: Capacità dello stadio 
+
+OWNER: Proprietario del team (l'ultimo)
+
+GENERALMANAGER: General manager del team
+
+HEADCOACH: Allenatore principale del team
+
+DLEAGUEAFFILIATION: Squadra collegata appartenente alla NBA LEAGUE G (tipo una serie B di squadre primavera)
